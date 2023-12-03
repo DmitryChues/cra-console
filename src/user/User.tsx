@@ -4,6 +4,9 @@ export const User = () => {
 	return (
 		<div>
 			<h2>Post</h2>
+			<h2>Post</h2>
+			<h2>Post</h2>
+			<h2>Post</h2>
 		</div>
 	)
 }
