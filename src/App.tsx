@@ -7,6 +7,7 @@ function App() {
 		<div className="App">
 			<div>App</div>
 			<div>Dev branch commit 1</div>
+			<p>Lorem, ipsum dolor.</p>
 		</div>
 	);
 }
